@@ -1,0 +1,9 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM7",
+    "idf.flashType": "UART",
+    "C_Cpp.default.compilerPath": "d:\\Apps\\.espressif\\esp_idf.json",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ]
+}
